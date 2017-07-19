@@ -1,5 +1,5 @@
-var expect = chai.expect;
-var assert = chai.assert;
+const expect = chai.expect;
+const assert = chai.assert;
 
 describe('Array', () => {
   describe('#indexOf()', () => {
